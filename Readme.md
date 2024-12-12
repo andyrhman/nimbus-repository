@@ -5,7 +5,7 @@ Welcome to the **Nimbus Project**, a comprehensive suite of repositories that sh
 ---
 
 ## 🤖 Machine Learning Repository
-This repository highlights the Machine Learning efforts for the Nimbus Project, delivering a seamless user experience on handheld devices.
+This repository highlights the Machine Learning efforts for the Nimbus Project, this repository focused on predictive analytics for travel destination, utilizing advanced algorithms to deliver insightful predictions.
 
 - **Repository Link**: 
 
