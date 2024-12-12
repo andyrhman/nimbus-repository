@@ -1,4 +1,4 @@
-# Welcome to the Nimbus Project Repositories
+# Nimbus Project Repositories
 
 Welcome to the **Nimbus Project**, a comprehensive suite of repositories that showcases our work in cloud computing, server-side APIs, machine learning, and mobile development. This collection is designed to streamline modern application development with efficient solutions. Explore the details below for each repository and their specific contributions to the project.
 
