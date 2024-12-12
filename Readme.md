@@ -4,7 +4,7 @@ Welcome to the **Nimbus Project**, a comprehensive suite of repositories that sh
 
 ---
 
-## 📱 Machine Learning Repository
+## 🤖 Machine Learning Repository
 This repository highlights the Machine Learning efforts for the Nimbus Project, delivering a seamless user experience on handheld devices.
 
 - **Repository Link**: 
