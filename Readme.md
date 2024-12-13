@@ -7,7 +7,7 @@ Welcome to the **Nimbus Project**, a comprehensive suite of repositories that sh
 ## 🤖 Machine Learning Repository
 This repository highlights the Machine Learning efforts for the Nimbus Project, this repository focused on predictive analytics for travel destination, utilizing advanced algorithms to deliver insightful predictions.
 
-- **Repository Link**: 
+- **Repository Link**: [Nimbus Machine Learning Repo](https://github.com/ZahraMaharaniP/Capstone-Project-Bangkit---ML-Learning-Path.git)
 
 ---
 
@@ -38,6 +38,7 @@ This repository highlights the mobile development efforts for the Nimbus Project
 ## 🌟 How to Get Started
 1. **Clone the Repositories**: 
    ```bash
+   git clone https://github.com/ZahraMaharaniP/Capstone-Project-Bangkit---ML-Learning-Path.git
    git clone https://github.com/andyrhman/nimbus-server.git
    git clone https://github.com/andyrhman/nimbus-ml.git
    git clone https://github.com/AinxViin/CapstoneProjectNIMBUS.git
@@ -50,6 +51,7 @@ This repository highlights the mobile development efforts for the Nimbus Project
 ## 📚 Documentation
 Each repository includes comprehensive documentation to guide you through installation, usage, and contribution guidelines.
 
+- For the **Machine Learning Repository**, refer to the [Nimbus ML README](https://github.com/ZahraMaharaniP/Capstone-Project-Bangkit---ML-Learning-Path.git#readme).
 - For the **NodeJS Server API**, refer to the [Nimbus Server README](https://github.com/andyrhman/nimbus-server#readme).
 - For the **Django ML API**, refer to the [Nimbus ML README](https://github.com/andyrhman/nimbus-ml#readme).
 - For the **Mobile Development Repository**, refer to the [Capstone Project README](https://github.com/AinxViin/CapstoneProjectNIMBUS#readme).
